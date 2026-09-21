@@ -36,3 +36,7 @@ Los datos se guardan en `data/` dentro de la carpeta desde donde corres el coman
 ## Origen
 
 Extraído de un proyecto de investigación más grande (event study de OPAs en Perú, Brasil, Chile y México) que aún no es público. Aquí solo va la parte de SMV.
+
+## Licencia
+
+MIT. Ver `LICENSE`.
